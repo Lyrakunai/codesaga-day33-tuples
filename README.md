@@ -29,5 +29,5 @@ Tuples in Python
 - Used tuple for fixed system roles
 
 ## 🚀 Status
-- see day33_tuples.py
+- see day33_practice.py
 - completed day 33
